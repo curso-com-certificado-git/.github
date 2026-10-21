@@ -15,7 +15,7 @@ Bem-vindo à organização oficial dos repositórios práticos desenvolvidos dur
 ## 📜 Certificação Oficial
 Podes consultar a certificação das duas formas abaixo:
 
-📄 **[Visualizar Certificado em PDF no GitHub](../certificado-git.pdf)**  
+📄 **[Visualizar Certificado em PDF no GitHub](https://github.com/curso-com-certificado-git/.github/blob/main/Curso%20completo%20de%20Git%20e%20GitHub%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado.pdf)**  
 🔗 **[Verificação Oficial na Plataforma Udemy](https://www.udemy.com/certificate/UC-683f3b15-4544-4bea-b1c5-c419e214947e/)**
 
 ---
